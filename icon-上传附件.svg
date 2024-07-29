@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-上传附件</title>
+    <g id="UI稿-1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-9" transform="translate(-295.000000, -892.000000)">
+            <g id="输入框" transform="translate(275.000000, 832.000000)">
+                <g id="icon-附件" transform="translate(12.000000, 52.000000)">
+                    <g id="编组-4" transform="translate(6.000000, 6.000000)">
+                        <rect id="矩形" fill="#D8D8D8" opacity="0" transform="translate(10.000000, 10.000000) scale(1, -1) translate(-10.000000, -10.000000) " x="0" y="0" width="20" height="20"></rect>
+                        <path d="M11.25,6.25 L11.25,13.75 C11.25,14.4403559 10.6903559,15 10,15 C9.30964406,15 8.75,14.4403559 8.75,13.75 L8.75,5 C8.75,3.61928813 9.86928813,2.5 11.25,2.5 C12.6307119,2.5 13.75,3.61928813 13.75,5 L13.75,13.75 C13.75,15.8210678 12.0710678,17.5 10,17.5 C7.92893219,17.5 6.25,15.8210678 6.25,13.75 L6.25,6.25 L6.25,6.25" id="矩形" stroke="#4F4F5E" stroke-width="1.8" stroke-linejoin="round" transform="translate(10.000000, 10.000000) scale(-1, 1) rotate(-45.000000) translate(-10.000000, -10.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
